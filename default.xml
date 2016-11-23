@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!-- Define remotes -->
+  <remote  name="JackSlaterIV"
+           fetch="https://github.com/JackSlaterIV/" />
+
+
+ <project path="proprietary_vendor_lge/d850" name="proprietary_vendor_lge/d850" remote="JackSlaterIV" revision="cm-13.0" />
+
+
+</manifest>
